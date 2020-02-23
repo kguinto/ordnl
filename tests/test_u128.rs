@@ -1,7 +1,7 @@
 use ordnl;
 
 #[test]
-pub fn test_u128() {
+fn test_u128() {
     for (num, expected) in vec![
         // < 100
         (0u128, "0th"),

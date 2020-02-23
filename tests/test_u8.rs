@@ -1,7 +1,7 @@
 use ordnl;
 
 #[test]
-pub fn test_u8() {
+fn test_u8() {
     for (num, expected) in vec![
         (0u8, "0th"),
         (1u8, "1st"),
