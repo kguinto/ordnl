@@ -1,7 +1,7 @@
 [package]
 name = "ordnl"
 version = "1.0.0"
-authors = ["Kirk <klogold1@gmail.com>"]
+authors = ["Kirk Louie Guinto <kirklouieguinto@gmail.com>"]
 edition = "2018"
 description = "A Rust library for formatting ordinal numbers"
 homepage = "https://github.com/kguinto/ordnl"
