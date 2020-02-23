@@ -9,7 +9,7 @@ A Rust library for formatting ordinal numbers.
 Add this to your Cargo.toml:
 ```toml
 [dependencies]
-ordnl = "1.0.2"
+ordnl = "1.0.3"
 ```
 
 ## Example
