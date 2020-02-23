@@ -1,6 +1,9 @@
 # ordnl
 A Rust library for formatting ordinal numbers.
 
+[![Crate](https://img.shields.io/crates/v/ordnl.svg)](https://crates.io/crates/ordnl)
+[![Docs](https://docs.rs/ordnl/badge.svg)](https://docs.rs/ordnl)
+
 ## Usage
 
 Add this to your Cargo.toml:
