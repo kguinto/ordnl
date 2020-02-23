@@ -4,7 +4,8 @@ version = "1.0.2"
 authors = ["Kirk Louie Guinto <kirklouieguinto@gmail.com>"]
 edition = "2018"
 description = "A Rust library for formatting ordinal numbers"
-homepage = "https://github.com/kguinto/ordnl"
+homepage = "https://crates.io/crates/ordnl"
+repository = "https://github.com/kguinto/ordnl"
+documentation = "https://docs.rs/ordnl/"
 license = "MIT"
-
-[dependencies]
+readme = "README.md"
